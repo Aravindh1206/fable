@@ -19,7 +19,7 @@ Fable is a web-enabled, web-ready, multi-browser compatible, ReactJS-powered web
 
 ## Team Members
 
-- Aravindh Shiva Gunasekharan
+- Aravindh 
 - Charan Sundar Telaganeni
 - Jeshwanth Kumar
 - Koushal Anitha Raja
